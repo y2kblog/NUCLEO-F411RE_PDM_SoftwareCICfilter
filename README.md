@@ -23,5 +23,5 @@ System Workbench for STM32 (SW4STM32) + STM32CubeF4 + STM32CubeMX
 <img src="https://github.com/y2kblog/NUCLEO-F411RE_PDM_SoftwareCICfilter/blob/master/images/Pinout.png" width="300px">
 
 ## Schematic
-<img src="https://github.com/y2kblog/NUCLEO-F411RE_PDM_SoftwareCICfilter/blob/master/images/Schematic.png" width="1200px">
+<img src="https://github.com/y2kblog/NUCLEO-F411RE_PDM_SoftwareCICfilter/blob/master/images/schematic.png" width="1200px">
 
